@@ -1,0 +1,14 @@
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\bin\Debug\net7.0\CPRG 211-F Lab 1.exe
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\bin\Debug\net7.0\CPRG 211-F Lab 1.deps.json
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\bin\Debug\net7.0\CPRG 211-F Lab 1.runtimeconfig.json
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\bin\Debug\net7.0\CPRG 211-F Lab 1.dll
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\bin\Debug\net7.0\CPRG 211-F Lab 1.pdb
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\obj\Debug\net7.0\CPRG 211-F Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\obj\Debug\net7.0\CPRG 211-F Lab 1.AssemblyInfoInputs.cache
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\obj\Debug\net7.0\CPRG 211-F Lab 1.AssemblyInfo.cs
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\obj\Debug\net7.0\CPRG 211-F Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\obj\Debug\net7.0\CPRG 211-F Lab 1.dll
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\obj\Debug\net7.0\refint\CPRG 211-F Lab 1.dll
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\obj\Debug\net7.0\CPRG 211-F Lab 1.pdb
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\obj\Debug\net7.0\CPRG 211-F Lab 1.genruntimeconfig.cache
+C:\Users\yuugx\source\repos\CPRG 211-F Lab 1\CPRG 211-F Lab 1\obj\Debug\net7.0\ref\CPRG 211-F Lab 1.dll
